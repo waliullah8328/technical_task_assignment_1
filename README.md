@@ -1,6 +1,6 @@
 # technical_task_assignment_1
 
-It is a course showing app. Here I feach course using api and show it flutter app.
+It is a data feaching app. Here I feach list of data using api and show it flutter app.
 
 ## Getting Started
 
